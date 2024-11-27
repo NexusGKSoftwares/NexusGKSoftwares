@@ -3,14 +3,14 @@
 
 # 💫 About Me
 ---
-    🚀 Hi, I'm **Gideon Bett**—passionate about coding and innovation.  
+*  🚀 Hi, I'm **Gideon Bett**—passionate about coding and innovation.  
     🌱 Always learning and growing, embracing new challenges.  
     🔥 Turning bugs 🐛 into breakthroughs 💡 and ideas into reality.  
     ❤️ Coding isn't just a skill—it's a lifestyle I love.  
     🌐 Exploring infinite possibilities in the tech world 🌌.  
     💻 Focused on clean, efficient, and impactful code.  
     🌟 Striving to create solutions that make a difference ✨.  
-    🔧 From debugging 🛠️ to deployment 🚢, I'm all in.
+    🔧 From debugging 🛠️ to deployment 🚢, I'm all in.**
 ---
 ---
 
