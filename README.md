@@ -2,7 +2,7 @@
 ---
 
 # 💫 About Me
-
+---
 🚀 Hi, I'm **Gideon Bett**—passionate about coding and innovation.  
 🌱 Always learning and growing, embracing new challenges.  
 🔥 Turning bugs 🐛 into breakthroughs 💡 and ideas into reality.  
@@ -12,7 +12,7 @@
 🌟 Striving to create solutions that make a difference ✨.  
 🔧 From debugging 🛠️ to deployment 🚢, I'm all in.
 ---
-
+---
 
 
 ## 🌐 Socials:
