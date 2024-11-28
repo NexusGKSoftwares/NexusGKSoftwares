@@ -12,6 +12,7 @@
     🌟 Striving to create solutions that make a difference ✨.  
     🔧 From debugging 🛠️ to deployment 🚢, I'm all in.**
 ---
+[![CodeQL Advanced](https://github.com/NexusGKSoftwares/freelancing_marketplace/actions/workflows/codeql.yml/badge.svg)](https://github.com/NexusGKSoftwares/freelancing_marketplace/actions/workflows/codeql.yml)
 ---
 
 
