@@ -3,15 +3,16 @@
 
 # 💫 About Me
 ---
-*  🚀 Hi, I'm **Gideon Bett**—passionate about coding and innovation.  
-    🌱 Always learning and growing, embracing new challenges.  
-    🔥 Turning bugs 🐛 into breakthroughs 💡 and ideas into reality.  
-    ❤️ Coding isn't just a skill—it's a lifestyle I love.  
-    🌐 Exploring infinite possibilities in the tech world 🌌.  
-    💻 Focused on clean, efficient, and impactful code.  
-    🌟 Striving to create solutions that make a difference ✨.  
-    🔧 From debugging 🛠️ to deployment 🚢, I'm all in.**
 
+🚀 Hi, I'm **Gideon Bett**—passionate about coding and innovation.  
+🌱 Always learning and growing, embracing new challenges.  
+🔥 Turning bugs 🐛 into breakthroughs 💡 and ideas into reality.  
+❤️ Coding isn't just a skill—it's a lifestyle I love.  
+🌐 Exploring infinite possibilities in the tech world 🌌.  
+💻 Focused on clean, efficient, and impactful code.  
+🌟 Striving to create solutions that make a difference ✨.  
+🔧 From debugging 🛠️ to deployment 🚢, I'm all in.
+<img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
 
    <a href='https://nexusgkportfolio.netlify.app/' target="_blank"><img alt='NexusGK Softwares ' src='https://img.shields.io/badge/NexusGK_Softwares -100000?style=flat&logo=NexusGK Softwares &logoColor=white&labelColor=3EF416&color=6C6C69'/></a>
 ---
