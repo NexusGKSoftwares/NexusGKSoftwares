@@ -224,5 +224,33 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zeddychepkoech15@gmail.com) 
 
+
+
+
+<h4 align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+</h4>
+<br>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
