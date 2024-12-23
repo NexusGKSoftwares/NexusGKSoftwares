@@ -18,6 +18,7 @@
 [![CodeQL Advanced](https://github.com/NexusGKSoftwares/freelancing_marketplace/actions/workflows/codeql.yml/badge.svg)](https://github.com/NexusGKSoftwares/freelancing_marketplace/actions/workflows/codeql.yml)
 ---
 
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NexusGK ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NexusGK ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/NexusGK ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NexusGK ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@NexusGK ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@NexusGK ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NexusGK ) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/NexusGK ) 
