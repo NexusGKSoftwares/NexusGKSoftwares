@@ -1,6 +1,6 @@
 ![](assets/Bottom_up.svg)
 ---
-
+<img src="machine.gif">
 # 💫 About Me
 ---
 *  🚀 Hi, I'm **Gideon Bett**—passionate about coding and innovation.  
