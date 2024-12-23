@@ -1,6 +1,6 @@
 ![](assets/Bottom_up.svg)
 ---
-<img src="machine.gif">
+
 # 💫 About Me
 ---
 *  🚀 Hi, I'm **Gideon Bett**—passionate about coding and innovation.  
@@ -17,7 +17,7 @@
 ---
 [![CodeQL Advanced](https://github.com/NexusGKSoftwares/freelancing_marketplace/actions/workflows/codeql.yml/badge.svg)](https://github.com/NexusGKSoftwares/freelancing_marketplace/actions/workflows/codeql.yml)
 ---
-
+<img src="machine.gif">
 ---
 
 ## 🌐 Socials:
