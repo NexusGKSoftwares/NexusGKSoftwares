@@ -1,6 +1,7 @@
 ![](assets/Bottom_up.svg)
 ---
 
+
 # 💫 About Me
 ---
 <img align="right" alt="GIF" src="ai.gif" width=35% height=45%/>
