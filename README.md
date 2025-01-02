@@ -1,6 +1,4 @@
 ![](assets/Bottom_up.svg)
----
-
 
 # 💫 About Me
 ---
