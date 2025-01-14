@@ -1,8 +1,10 @@
 ![](assets/Bottom_up.svg)
 
+
 # 💫 About Me
 ---
 <img align="right" alt="GIF" src="ai.gif" width=35% height=45%/>
+
 🚀 Hi, I'm Gideon Bett  passionate about coding and innovation.  <br/>
 🌱 Always learning and growing, embracing new challenges.  <br/>
 🔥 Turning bugs 🐛 into breakthroughs 💡 and ideas into reality. <br/> 
