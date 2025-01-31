@@ -226,6 +226,8 @@
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
+<img alt="GIF" src="github-metrics.svg" width=100% height=55%/>
+
 <div align="left" >
    
 ```shell
