@@ -19,8 +19,6 @@
 🌟 Striving to create solutions that make a difference ✨.  <br/>
 🔧 From debugging 🛠️ to deployment 🚢, I'm all in.<br/>
 
-
-   <a href='https://nexusgkportfolio.netlify.app/' target="_blank"><img alt='NexusGK Softwares ' src='https://img.shields.io/badge/NexusGK_Softwares -100000?style=flat&logo=NexusGK Softwares &logoColor=white&labelColor=3EF416&color=6C6C69'/></a>
 ---
 [![CodeQL Advanced](https://github.com/NexusGKSoftwares/freelancing_marketplace/actions/workflows/codeql.yml/badge.svg)](https://github.com/NexusGKSoftwares/freelancing_marketplace/actions/workflows/codeql.yml)
 
