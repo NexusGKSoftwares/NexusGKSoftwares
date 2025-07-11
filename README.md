@@ -3,7 +3,7 @@
 
 # 💫 About Me
 ---
-<img align="right" alt="GIF" src="ai.gif" width=35% height=45%/>
+<img align="right" alt="GIF" src="ai.gif" width=55% height=65%/>
 
 🚀 Hi, I'm Gideon Bett  passionate about coding and innovation.  <br/>
 🌱 Always learning and growing, embracing new challenges.  <br/>
