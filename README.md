@@ -3,6 +3,7 @@
 
 # 👨‍💻 The Developer Behind the Code
 
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34803)](https://codetime.dev)
 ---
 <img align="right" alt="GIF" src="ai.gif" width=55% height=65%/>
 
@@ -309,3 +310,4 @@ Other        1 hr 2 mins     █░░░░░░░░░░░░░░░░
 <br>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
