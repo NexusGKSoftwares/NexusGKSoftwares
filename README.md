@@ -1,31 +1,41 @@
 ![](assets/Bottom_up.svg)
 
+# The Architect Behind the Code
 
-# 💫 About Me
 ---
+
 <img align="right" alt="GIF" src="ai.gif" width=55% height=65%/>
 
-🚀 Hi, I'm Gideon Bett  passionate about coding and innovation.  <br/>
-🌱 Always learning and growing, embracing new challenges.  <br/>
-🔥 Turning bugs 🐛 into breakthroughs 💡 and ideas into reality. <br/> 
-❤️ Coding isn't just a skill—it's a lifestyle I love. <br/>
-🌐 Exploring infinite possibilities in the tech world 🌌.  <br/>
-💻 Focused on clean, efficient, and impactful code.  <br/>
-🌟 Striving to create solutions that make a difference ✨.  <br/>
-🔧 From debugging 🛠️ to deployment 🚢, I'm all in.<br/>
+**Gideon Bett** — CEO & Principal Architect | NexusGK Softwares
 
+Full-stack architect and engineering leader with 5+ years of experience designing and delivering enterprise-grade software solutions. Specialized in building scalable, maintainable systems that balance technical excellence with business objectives. Proven track record in system architecture, technical leadership, and product development across the entire software stack.
 
-   <a href='https://nexusgkportfolio.netlify.app/' target="_blank"><img alt='NexusGK Softwares ' src='https://img.shields.io/badge/NexusGK_Softwares -100000?style=flat&logo=NexusGK Softwares &logoColor=white&labelColor=3EF416&color=6C6C69'/></a>
+**Core Expertise:**
+
+- **Architecture**: Microservices, event-driven systems, domain-driven design, REST/GraphQL APIs
+- **Performance**: Database optimization, caching strategies, CDN implementation, load balancing
+- **DevOps**: CI/CD pipelines, containerization, infrastructure as code, monitoring & observability
+- **Security**: Authentication/authorization patterns, data encryption, security best practices
+- **Technical Leadership**: Code reviews, technical decision-making, mentoring, system design
+
+<a href='https://www.nexusgk.com/' target="_blank"><img alt='NexusGK Softwares ' src='https://img.shields.io/badge/NexusGK_Softwares -100000?style=flat&logo=NexusGK Softwares &logoColor=white&labelColor=3EF416&color=6C6C69'/></a>
 ---
 [![CodeQL Advanced](https://github.com/NexusGKSoftwares/freelancing_marketplace/actions/workflows/codeql.yml/badge.svg)](https://github.com/NexusGKSoftwares/freelancing_marketplace/actions/workflows/codeql.yml)
 
 ---
 
+## Professional Networks & Connect
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NexusGK ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NexusGK ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/NexusGK ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NexusGK ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@NexusGK ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@NexusGK ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NexusGK ) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/NexusGK ) 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
-<!-- <img src="skill.png"> -->
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NexusGK) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NexusGK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/NexusGK) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NexusGK) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@NexusGK) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@NexusGK) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NexusGK) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/NexusGK)
+
+## Technology Stack & Core Competencies
+
+**Frontend Architecture:**
+Modern component-based frameworks with focus on state management, performance optimization, and user experience. Experience building SPAs, SSG/SSR applications, and progressive web applications.
+
+**Backend Architecture:**
+RESTful and GraphQL API design, microservices architecture, serverless functions, and event-driven systems. Expertise in database design, query optimization, and implementing scalable backend services.
+
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -200,36 +210,73 @@
 
 ---
 
-### 🧰 Tools & Technologies I Work With
+### Technology Ecosystem & Toolchain
+
+**Production Stack:**
+
+- **Frontend**: React, Next.js, Vue.js, Angular, TypeScript, Tailwind CSS, Material-UI
+- **Backend**: Node.js, Express, NestJS, Python (Django/Flask), PHP (Laravel), REST/GraphQL APIs
+- **Databases**: PostgreSQL, MongoDB, MySQL, Redis (caching & session management)
+- **Cloud & DevOps**: AWS, Docker, CI/CD pipelines, Infrastructure as Code
+- **Testing**: Jest, Unit/Integration/E2E testing frameworks
+- **Tools**: Git, Webpack, Vite, Postman, VS Code
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,vuejs,svelte,nodejs,express,mongodb,tailwind,bootstrap,materialui,threejs,electron,nextjs,figma,git,github,bitbucket,azure,vite,webpack,redux,firebase,docker,aws,vercel,postman,vscode,photoshop,xd,astro,wordpress,graphql,jest&theme=dark&perline=15)](https://skillicons.dev)
 
 ---
 
-# 📊 GitHub Stats:
-<img src="machine.gif" align="right" width=50% height=50% style="border-radius:10% ;" />  <br/>
-![](https://github-readme-stats.vercel.app/api?username=NexusGkSoftwares&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+# Engineering Activity & Open Source Contributions
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=NexusGkSoftwares&theme=dark&hide_border=true)<br/>
+<img src="machine.gif" align="right" width=50% height=50% style="border-radius:10% ;" />  <br/>
+
+*Metrics reflect active development across multiple production codebases, open-source contributions, and enterprise projects.*
+
+![](https://github-readme-stats.vercel.app/api?username=NexusGkSoftwares&theme=dark&hide_border=true&include_all_commits=true&count_private=true)`<br/>`
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=NexusGkSoftwares&theme=dark&hide_border=true)`<br/>`
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NexusGkSoftwares&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## Achievements & Recognition
 
-
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NexusGkSoftwares&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Engineering Philosophy & Principles
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NexusGkSoftwares&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+*"Code is written once but read many times. Architecture decisions made today impact scalability tomorrow. Always optimize for maintainability, developer experience, and long-term business value."*
 
----
+**Core Principles:**
+
+- **Maintainability First**: Write code that future developers can understand and modify with confidence
+- **Scalability by Design**: Architect systems that can grow organically with business needs
+- **Security by Default**: Implement security best practices from the ground up, not as an afterthought
+- **Performance Optimization**: Measure, profile, and optimize based on real data and user impact
+- **Documentation**: Code should be self-documenting, but complex logic requires clear explanations
+- **Testing**: Comprehensive test coverage reduces technical debt and enables confident refactoring
+
 [![](https://visitcount.itsvg.in/api?id=NexusGkSoftwares&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zeddychepkoech15@gmail.com) 
+## Enterprise Solutions & Consulting Services
 
+Open to technical discussions, architecture reviews, and collaborative projects. Available for enterprise consulting, partnerships, or technical leadership opportunities.
 
+**Services Offered:**
 
+- **Enterprise Consulting**: System architecture, technical audits, performance optimization
+- **Technical Leadership**: Engineering team leadership, technical decision-making, mentorship
+- **Product Development**: Full-stack development, MVP development, product scaling
+- **Strategic Partnerships**: Technical partnerships, joint ventures, technology integration
 
+**Contact Information:**
+
+- **Website**: [nexusgk.com](https://www.nexusgk.com/)
+- **Email**:
+  - nexusgksoftwares@gmail.com
+  - nexusg3@gmail.com
+- **Phone**:
+  - +254 (07) 68 193 991
+  - +254 (07) 91 431 287
+- **LinkedIn**: [linkedin.com/in/NexusGK](https://linkedin.com/in/NexusGK)
+
+---
+
+**NexusGK Softwares** — Engineering excellence through scalable architecture and best practices
