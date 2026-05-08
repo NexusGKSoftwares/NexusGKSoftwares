@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="ai.gif" width=55% height=65%/>
 
-**Gideon Bett** — CEO & Principal Architect | NexusGK Softwares
+**Gideon Bett** — CEO & Principal Architect | @Tekvora-Systems, @NexusGK-Softwares-Co
 
 Full-stack architect and engineering leader with 5+ years of experience designing and delivering enterprise-grade software solutions. Specialized in building scalable, maintainable systems that balance technical excellence with business objectives. Proven track record in system architecture, technical leadership, and product development across the entire software stack.
 
