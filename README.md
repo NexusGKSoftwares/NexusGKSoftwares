@@ -261,18 +261,8 @@ As a full-stack architect and engineering leader, I maintain an active developme
 
 </div>
 
-<div align="center" style="border: 1px solid #3EF416; border-radius: 8px; padding: 15px; margin: 15px 0;">
 
-![](https://github-readme-stats.vercel.app/api?username=NexusGkSoftwares&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=NexusGkSoftwares&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NexusGkSoftwares&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## Achievements & Recognition
-
-![](https://github-profile-trophy.vercel.app/?username=NexusGkSoftwares&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### Engineering Philosophy & Principles
 
