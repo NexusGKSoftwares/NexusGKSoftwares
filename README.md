@@ -22,7 +22,7 @@ Full-stack architect and engineering leader with 5+ years of experience designin
 
 </div>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NexusGKSoftwares&label=Profile%20views&color=0e75b6&style=flat" alt="NexusGKSoftwares" /> </p>
 ---
 
 ## Professional Networks & Connect
