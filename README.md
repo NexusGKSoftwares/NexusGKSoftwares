@@ -4,8 +4,7 @@
 
 <div align="center" style="border: 2px solid #3EF416; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(62, 244, 22, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);">
 
-<img align="right" alt="GIF" src="ai.gif" width=55% height=65%/>
-
+![](https://hit.yhype.me/github/profile?account_id=186822374)
 **Gideon Bett** — CEO & Principal Architect | @Tekvora-Systems, @NexusGK-Softwares-Co
 
 Full-stack architect and engineering leader with 5+ years of experience designing and delivering enterprise-grade software solutions. Specialized in building scalable, maintainable systems that balance technical excellence with business objectives. Proven track record in system architecture, technical leadership, and product development across the entire software stack.
@@ -20,8 +19,7 @@ Full-stack architect and engineering leader with 5+ years of experience designin
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NexusGKSoftwares&label=Profile%20views&color=0e75b6&style=flat" alt="NexusGKSoftwares" /> </p>
-![](https://hit.yhype.me/github/profile?account_id=186822374)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NexusGKSoftwares&label=Profile%20views&color=0e75b6&style=flat" alt="NexusGKSoftwares" /> </p> 
 ---
 
 ## Professional Networks & Connect
